@@ -1,0 +1,38 @@
+[
+    {
+           "img":"imgeo1.avif",
+           "title":"The Defender",
+           "type":"Action/Sic-fric"
+    }
+    ,{
+           "img":"imgeo2.avif",
+           "title":"Yelo",
+           "type":"Mainderin"
+    },
+    {
+        "img":"imgeo3.avif",
+        "title":"Ab To Sab Bhagwan Bharose",
+        "type":"Hindi"
+    },
+    {
+        "img":"imgeo4.avif",
+        "title":"Speak No Evil",
+        "type":"English"
+    },
+    {
+        "img":"imgeo5.avif",
+        "title":"Strange Darking",
+        "type":"English"
+    },
+    {
+        "img":"imgeo6.avif",
+        "title":"The Greate Escaper",
+        "type":"English"
+    },
+    {
+        "img":"imgeo7.avif",
+        "title":"The Line(2023)",
+        "type":"English"
+    }
+    
+]

@@ -1,0 +1,52 @@
+[
+    {
+           "img":"img1.avif",
+           "title":"Venom:The Last Dance",
+           "type":"Action/Sic-fric"
+    }
+    ,{
+           "img":"img2.avif",
+           "title":"Sigham Again",
+           "type":"Action/Drama"
+    },
+    {
+        "img":"img3.avif",
+        "title":"Bhool bholaiya 3",
+        "type":"Comedy/Horor"
+    },
+    {
+        "img":"img4.avif",
+        "title":"Lucky Baskhar",
+        "type":"Crime/Drama/Thriller"
+    },
+    {
+        "img":"img5.avif",
+        "title":"Amaran",
+        "type":"Action/Drama/Thriller"
+    },
+    {
+        "img":"img6.avif",
+        "title":"The Wild Robot",
+        "type":"Adventure/Animation/Famaily"
+    },
+    {
+        "img":"img7.avif",
+        "title":"Bagheera",
+        "type":"Action/Thriller"
+    },
+    {
+        "img":"img8.avif",
+        "title":"Brother",
+        "type":"Action/Drama/Thriller"
+    },
+    {
+        "img":"img9.avif",
+        "title":"Smile 2",
+        "type":"Thriller/Horor"
+    },
+    {
+        "img":"img10.avif",
+        "title":"Transfer ones",
+        "type":"Action/Thriller/Animation"
+    }
+]
